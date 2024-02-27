@@ -1,3 +1,5 @@
+<img src="/jaitensahu/jaitensahu/raw/main/profile.gif" alt="logo" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 <h1 align="center">Hi 👋, I'm Abhay</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
