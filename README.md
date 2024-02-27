@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/127731916?v=4" align="center" style="width: 100%" />
-</div>   
+ 
 
 ---
 
