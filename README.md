@@ -1,4 +1,4 @@
-<div class="Box-sc-g0xbh4-0 iIZCet"><img alt="profile.gif" src="https://github.com/jaitensahu/jaitensahu/blob/main/profile.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt="profile.gif" src="https://github.com/abhay0933/abhay0933/blob/main/profile.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
 
 <h1 align="center">Hi 👋, I'm Abhay</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
