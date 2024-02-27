@@ -1,5 +1,13 @@
 <div class="Box-sc-g0xbh4-0 iIZCet"><img alt="profile.gif" src="https://github.com/abhay0933/abhay0933/blob/main/profile.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abhay0933&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhay0933&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay0933&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=abhay0933&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h1 align="center">Hi 👋, I'm Abhay</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
